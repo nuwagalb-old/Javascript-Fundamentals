@@ -1,2 +1,2 @@
 # Javascript-Recap
-Repository for reviewing JavaScript Fundamentals
+Review JavaScript Fundamentals
